@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8DGuGHx0iP/CnblA1a31l5LII7za4rk+JQk18TfzqPA=",
+  "Source": "BSSAPI",
+  "BasePath": "_content/BSSAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
